@@ -63,7 +63,7 @@ export default function Hero() {
           className="flex flex-col sm:flex-row justify-center gap-4"
         >
           <button className="px-8 py-3.5 bg-transparent border-2 border-white/30 hover:border-white/50 text-white font-medium rounded-lg shadow-sm hover:shadow-md transition-all duration-300 transform hover:-translate-y-0.5 focus:outline-none focus:ring-2 focus:ring-white focus:ring-opacity-30">
-            Call Now: +92 34884461186
+            Call Now: +92 3497304467
           </button>
         </motion.div>
 

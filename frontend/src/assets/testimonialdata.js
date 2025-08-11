@@ -1,7 +1,7 @@
 export const testimonials = [
   {
     id: 1,
-    name: "Ahmad Ali",
+    name: "Yasin",
     location: "Batkhila",
     image: "/ahmad.png",
     rating: 5,
@@ -9,7 +9,7 @@ export const testimonials = [
   },
   {
     id: 2,
-    name: "Adnan Khan",
+    name: "suliman",
     location: "Temargara",
     image: "/adnan.png",
     rating: 5,
@@ -17,7 +17,7 @@ export const testimonials = [
   },
   {
     id: 3,
-    name: "Fawad Khan",
+    name: "aamir",
     location: "Swat",
     image: "/fawad.png",
     rating: 4,
@@ -25,7 +25,7 @@ export const testimonials = [
   },
   {
     id: 4,
-    name: "Dawood Khan",
+    name: "david",
     location: "Swat, pary",
     image: "/dawood.png",
     rating: 5,
@@ -33,7 +33,7 @@ export const testimonials = [
   },
   {
     id: 5,
-    name: "Ali Khan",
+    name: "angela",
     location: "Swat, Barikot",
     image: "/ali.png",
     rating: 5,
@@ -41,7 +41,7 @@ export const testimonials = [
   },
   {
     id: 6,
-    name: "Muhammad Waqas",
+    name: "abbas",
     location: "Islamabad,G12",
     image: "/waqas.jpg",
     rating: 4,

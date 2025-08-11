@@ -53,9 +53,8 @@ export const getSchedulingEmailTemplate = (appointment, date, time, notes) => `
         <p style="margin: 0; color: #4b5563;">
           Our support team is available 24/7 to assist you:
           <br>
-          📧 <a href="mailto:waqasgul369@gmail.com" style="color: #2563eb; text-decoration: none;">waqasgul369@gmail.com.com</a>
-          <br>
-          📞 <a href="tel:+923488446186" style="color: #2563eb; text-decoration: none;">+923424244508</a>
+          📧 <a href="mailto:yk5793790@gmail.com" style="color: #2563eb; text-decoration: none;">yk5793790@gmail.com
+          📞 <a href="tel:+923497304467" style="color: #2563eb; text-decoration: none;">+923497304467</a>
         </p>
       </div>
     </div>
@@ -142,9 +141,9 @@ export const getEmailTemplate = (appointment, status,userEmail) => `
         <p style="margin: 0; color: #4b5563;">
           Our support team is available 24/7 to assist you:
           <br>
-          📧 <a href="mailto:waqasgul369@gmail.com" style="color: #2563eb; text-decoration: none;">waqasgul369@gmail.com</a>
+          📧 <a href="mailto:yk5793790@gmail.com" style="color: #2563eb; text-decoration: none;">yk5793790@gmail.com</a>
           <br>
-          📞 <a href="tel:+923488446186" style="color: #2563eb; text-decoration: none;">+92 3488446186</a>
+          📞 <a href="tel:+923497304467" style="color: #2563eb; text-decoration: none;">+92 3497304467</a>
         </p>
       </div>
     </div>
@@ -216,7 +215,7 @@ export const getNewsletterTemplate = (email) => `
     <div style="background: #f8fafc; padding: 20px; border-radius: 8px; margin-top: 30px;">
       <p style="margin: 0; color: #4b5563; font-size: 14px;">
         <strong style="color: #1e40af;">📝 Note:</strong> To ensure you don't miss our updates, please add
-        <a href="mailto:waqasgul369@gmail.com" style="color: #2563eb; text-decoration: none;">waqasgul369@gmail.com</a>
+        <a href="mailto:yk5793790@gmail.com" style="color: #2563eb; text-decoration: none;">yk5793790@gmail.com</a>
         to your contacts.
       </p>
     </div>
@@ -300,9 +299,9 @@ export const getWelcomeTemplate = (name) => `
       <p style="margin: 0; color: #4b5563;">
         Our support team is available 24/7:
         <br>
-        📧 <a href="mailto:waqasgul369@gmail.com" style="color: #2563eb; text-decoration: none;">waqasgul369@gmail.com</a>
+        📧 <a href="mailto:yk5793790@gmail.com" style="color: #2563eb; text-decoration: none;">yk5793790@gmail.com</a>
         <br>
-        📞 <a href="tel:+1234567890" style="color: #2563eb; text-decoration: none;">+92 3488446186</a>
+        📞 <a href="tel:+1234567890" style="color: #2563eb; text-decoration: none;">+92 3497304467</a>
       </p>
     </div>
   </div>
@@ -380,7 +379,7 @@ export const getPasswordResetTemplate = (resetUrl) => `
           <br>
           📧 <a href="mailto:security@Zaroori Zameen.com" style="color: #2563eb; text-decoration: none;">security@Zaroori Zameen.com</a>
           <br>
-          📞 <a href="tel:+1234567890" style="color: #2563eb; text-decoration: none;">+92 3488446186</a>
+          📞 <a href="tel:+1234567890" style="color: #2563eb; text-decoration: none;">+92 3497304467</a>
         </p>
       </div>
     </div>

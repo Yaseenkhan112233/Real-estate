@@ -562,7 +562,7 @@ const Dashboard = () => {
                   WG
                 </div>
                 <div>
-                  <p className="font-medium text-gray-900">Waqas Gul</p>
+                  <p className="font-medium text-gray-900">Haris Shah</p>
                   <p className="text-sm text-gray-500">Super Admin</p>
                 </div>
               </div>

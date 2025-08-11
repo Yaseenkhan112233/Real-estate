@@ -291,18 +291,18 @@ const helpLinks = [
 const contactInfo = [
   {
     icon: MapPin,
-    text: "chakdara Property Plaza",
+    text: "odigram swat",
     href: "https://maps.google.com/?q=123+Property+Plaza,Silicon+Valley,CA+94088",
   },
   {
     icon: Phone,
-    text: "+92 3488446186",
-    href: "tel:+923488446186",
+    text: "+92 3497304467",
+    href: "tel:+923497304467",
   },
   {
     icon: Mail,
-    text: "waqasgul369@gmail.com",
-    href: "mailto:waqasgul369@gmail.com",
+    text: "harisshah@gmail.com",
+    href: "mailto:harisshah@gmail.com",
   },
 ];
 

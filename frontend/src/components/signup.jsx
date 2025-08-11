@@ -119,7 +119,7 @@ const Signup = () => {
                     value={formData.name}
                     onChange={handleChange}
                     className="w-full pl-10 pr-4 py-3 rounded-lg bg-gray-50 border border-gray-200 focus:border-blue-500 focus:ring-2 focus:ring-blue-500/20 transition-all duration-200"
-                    placeholder="Waqas gul"
+                    placeholder="Haris Shah"
                   />
                 </div>
               </div>

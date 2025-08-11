@@ -6,19 +6,19 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Phone",
-    content: "+92 3488446186",
-    link: "tel:+923488446186",
+    content: "+92 3497304467",
+    link: "tel:+923497304467",
   },
   {
     icon: Mail,
     title: "Email",
-    content: "waqasgul369@gmail.com",
-    link: "mailto:waqasgul369@gmail.com",
+    content: "harisshah@gmail.com.com",
+    link: "mailto:harisshah@gmail.com.com",
   },
   {
     icon: MapPin,
     title: "Address",
-    content: " chakdara, KPK, Pakistan",
+    content: " odigram swat",
     link: "#map",
   },
   {

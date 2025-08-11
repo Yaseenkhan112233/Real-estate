@@ -165,7 +165,7 @@ export default function HowItWorks() {
             <p className="text-gray-700 italic text-lg mb-4">
               {`"The 3-step process was incredibly smooth. Within a week, I found and secured my dream apartment!"`}
             </p>
-            <p className="font-bold text-gray-900">Ali Khan, swat</p>
+            <p className="font-bold text-gray-900">Muhammad Yasin, swat</p>
             <div className="flex justify-center mt-2">
               {[...Array(5)].map((_, i) => (
                 <svg
