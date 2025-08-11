@@ -40,7 +40,7 @@ const AIPropertyHub = () => {
     setIsDeployedVersion(isDeployed);
 
     document.title =
-      "AI Property Hub | Zaroori Zameen - Real Estate Market Analysis";
+      "AI Property Hub | Zaroori Zameen - HMM Real Estate Market Analysis";
   }, []);
 
   // Timer for loading state
